@@ -11,3 +11,5 @@ https://lernantion.github.io/run-buddy/
 
 ##Contribution 
 Made with ❤️ by Christina Brenia
+
+### ©️2019 Run Buddy, Inc 
