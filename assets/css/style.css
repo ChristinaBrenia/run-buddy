@@ -81,13 +81,14 @@ section {
 
 .hero-form{
     border: 3px solid #024e76;
-    background-color: #fce138;
+    background-color: #fce23865;
     padding: 20px;
     width: 500px;
     color: #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
+    border-radius: 10px;
 }
 
 .hero-form h3 {
@@ -107,6 +108,11 @@ section {
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.checkbox {
+    float: left;
 }
 
 .hero-form label {
