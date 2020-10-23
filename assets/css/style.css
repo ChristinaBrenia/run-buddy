@@ -249,7 +249,17 @@ section {
 }
     
 }/* REACH OUT STULE START*/
+
+.con {
+    background: #024e76;
+} 
+
 .contact {
+    text-align: center;
+    background: #024e76; 
+}
+
+.test {
     text-align: center;
     background: #024e76;
 }
