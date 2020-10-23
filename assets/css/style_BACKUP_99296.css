@@ -247,10 +247,27 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+<<<<<<< HEAD
+    
+}/* REACH OUT STULE START*/
+
+.con {
+    background: #024e76;
+} 
+
+.contact {
+    text-align: center;
+    background: #024e76; 
+}
+
+.test {
+    text-align: center;
+=======
 
 /* REACH OUT STULE START*/
 .contact {
     text-align: center;
+>>>>>>> d6099696c8d9fddf442cafaff7ff41b10dfd0731
     background: #024e76;
 }
 
